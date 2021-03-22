@@ -1,0 +1,15 @@
+#tit {
+  color: aquamarine;
+  font-size: 5rem;
+  font-style: bold;
+  background-color: black;
+}
+
+.container  {
+  height: 300px;
+  width: 90%;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  border: 3px solid red;
+}
